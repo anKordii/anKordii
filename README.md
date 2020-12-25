@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm xanax 👋
 
-<!--
-**anKordii/anKordii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Golang**
+- ⚙️ Mastering: `.html`,`.css`,`.js`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Get in Touch
+
+- GitHub: [github.com/ankordii][github]
+- Site: [https://xayooindustries.us][site]
+- E-mail: support@xayooindustries.us
+
+### 📚 Looking for my Resume? E-Mail me!
+
+![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=ankordii&show_icons=true&hide_border=true)
+
+[github]: https://github.com/ankordii
+[site]: https://xayooindustries.us

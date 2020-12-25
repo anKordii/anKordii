@@ -13,7 +13,7 @@
 - Site: [https://xayooindustries.us][site]
 - E-mail: support@xayooindustries.us
 
-### 📚 Looking for my Resume? E-Mail me!
+
 
 ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=ankordii&show_icons=true&hide_border=true)
 

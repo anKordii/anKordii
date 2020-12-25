@@ -1,8 +1,8 @@
 # Hello, I'm xanax 👋
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![HTML](https://img.shields.io/badge/HTML-Chillin-orange)
+![CSS](https://img.shields.io/badge/CSS-Chillin-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Chillin-yellow)
 
 - 🌱 I’m currently learning **Golang**
 - ⚙️ Mastering: `.html`,`.css`,`.js`

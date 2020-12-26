@@ -15,7 +15,7 @@
 
 
 
-![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=ankordii&show_icons=true&hide_border=true&theme=dracula)
+![3xanax github stats](https://github-readme-stats.vercel.app/api?username=ankordii&show_icons=true&hide_border=true&theme=dracula)
 
 [github]: https://github.com/ankordii
 [site]: https://xayooindustries.us

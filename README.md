@@ -4,14 +4,14 @@
 ![CSS](https://img.shields.io/badge/CSS-Chillin-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Chillin-yellow)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **nothin**
 - ⚙️ Mastering: `.html`,`.css`,`.js`
 
 ### 📬 Get in Touch
 
 - GitHub: [github.com/ankordii][github]
 - Site: [https://xayooindustries.us][site]
-- E-mail: support@xayooindustries.us
+- E-mail: admin@4uss.cyou
 
 
 

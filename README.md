@@ -17,7 +17,7 @@
 ![3xanax github stats](https://github-readme-stats.vercel.app/api?username=ankordii&show_icons=true&hide_border=true&theme=dracula)
 
 [xayooindustries]: https://xayooindustries.us
-[BeyondLabs]: https://4uss.cyou
+[BeyondLabs]: https://beyondlabs.pl
 [betterbrime]: https://betterbri.me
 [youtube]: https://www.youtube.com/tonieholak
 [github]: https://github.com/ankordii

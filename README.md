@@ -1,4 +1,4 @@
-<img width="50%" align="right" alt="Discord Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankordii&layout=compact&theme=blueberry">
+<img width="50%" align="right" alt="Discord Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankordii&layout=compact&theme=codeSTACKr">
 
 # Hi, I'm xanax 👋
 

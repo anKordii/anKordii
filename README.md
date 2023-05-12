@@ -1,5 +1,5 @@
 <a href="https://wakatime.com/@3xanax" target="_blank">
-    <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=3xanax&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&layout=compact">
+    <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=3xanax&border_radius=0%200%205px%205px&theme=dark&bg_color=161B22&border_color=161B22&icon_color=58a6ff&show_icons=true&disable_animations=true&range=last_7_days">
 </a>
 
 # Hi, I'm xanax 👋

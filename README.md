@@ -15,6 +15,6 @@
 
 <a href="https://twitter.com/XanaxWasTaken" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
 <a href="https://www.twitch.tv/3xanax" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitch-0D1117?style=flat-square&logo=twitch&logoColor=white"></a>
-<a href="mailto:zan@uuid.top" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&&logo=gmail&logoColor=white"></a>
+<a href="mailto:xan@oxynstudios.com" target="_blank"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&&logo=gmail&logoColor=white"></a>
 
 <img width="100%" align="right" alt="Snake" src="https://github.com/anKordii/anKordii/blob/output/github-contribution-grid-snake.svg">

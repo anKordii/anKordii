@@ -6,7 +6,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **nothin**
+- 🌱 I’m currently learning **TypeScript, Tailwind**
 - ⚙️ Mastering: `Nextjs` 😎
 
 <br>

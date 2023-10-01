@@ -8,6 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Tailwind**
 - ⚙️ Mastering: `Nextjs` 😎
+- 🗣️ Looking for `job`
 
 <br>
 
